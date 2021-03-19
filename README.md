@@ -1,10 +1,10 @@
-#作業四 GitHub建立與Markdown使用,標題,連接,圖片  
-##資訊三甲 40717035 陳筱琪  
+# 作業四 GitHub建立與Markdown使用,標題,連接,圖片  
+## 資訊三甲 40717035 陳筱琪  
 
 [b26475198](https://b26475198.github.io/)   
 https://b26475198.github.io/   
 
-![123](https://github.com/b26475198/b26475198.github.io/blob/main/a4d2a49762ee26ecaeb9d2e20c61e6cb.jpg)
+![123](https://github.com/b26475198/b26475198.github.io/blob/main/bird.jpg)
 
 ## Welcome to GitHub Pages
 
