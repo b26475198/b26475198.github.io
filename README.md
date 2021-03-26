@@ -3,7 +3,7 @@
 
 [https://b26475198.github.io/](https://b26475198.github.io/)   
 
-![](https://github.com/b26475198/b26475198.github.io/blob/main/bird.jpg)  
+![](https://raw.githubusercontent.com/b26475198/b26475198.github.io/main/bird.jpg)  
 
 ## Welcome to GitHub Pages
 
